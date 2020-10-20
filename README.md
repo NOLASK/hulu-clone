@@ -10,6 +10,10 @@ This proyect is a frontend made it with ReactJS
 
 In the project directory, you can run:
 
+### `npm install`
+
+install all dependencies
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
